@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raman8093/dsa/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman8093/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Raman8093/dsa/tree/master/0860-lemonade-change) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman8093/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
