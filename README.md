@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raman8093/dsa/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman8093/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Raman8093/dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Raman8093/dsa/tree/master/0860-lemonade-change) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raman8093/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Raman8093/dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
