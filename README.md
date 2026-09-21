@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Raman8093/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Raman8093/dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Raman8093/dsa/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Raman8093/dsa/tree/master/0860-lemonade-change) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman8093/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman8093/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Raman8093/dsa/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Raman8093/dsa/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raman8093/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
