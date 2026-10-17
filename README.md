@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Raman8093/dsa/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Raman8093/dsa/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman8093/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raman8093/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -83,4 +86,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Raman8093/dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Raman8093/dsa/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
