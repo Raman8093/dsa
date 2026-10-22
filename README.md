@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Raman8093/dsa/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Raman8093/dsa/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/Raman8093/dsa/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Raman8093/dsa/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Raman8093/dsa/tree/master/0342-power-of-four) |
 ## Union-Find
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Raman8093/dsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
