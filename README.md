@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman8093/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raman8093/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman8093/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Raman8093/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman8093/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Raman8093/dsa/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman8093/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
