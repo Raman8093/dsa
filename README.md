@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Raman8093/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raman8093/dsa/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Raman8093/dsa/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Raman8093/dsa/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Raman8093/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Raman8093/dsa/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Raman8093/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman8093/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Raman8093/dsa/tree/master/0349-intersection-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Raman8093/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
