@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Raman8093/dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Raman8093/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman8093/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Raman8093/dsa/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Raman8093/dsa/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Raman8093/dsa/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raman8093/dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -150,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raman8093/dsa/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Raman8093/dsa/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raman8093/dsa/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Raman8093/dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
